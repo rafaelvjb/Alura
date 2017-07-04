@@ -1,0 +1,9 @@
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\bin\Debug\netcoreapp1.1\PartiuJunto.Web.deps.json
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\bin\Debug\netcoreapp1.1\PartiuJunto.Web.runtimeconfig.json
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\bin\Debug\netcoreapp1.1\PartiuJunto.Web.runtimeconfig.dev.json
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\bin\Debug\netcoreapp1.1\PartiuJunto.Web.dll
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\obj\Debug\netcoreapp1.1\PartiuJunto.Web.csprojResolveAssemblyReference.cache
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\obj\Debug\netcoreapp1.1\PartiuJunto.Web.AssemblyInfo.cs
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\bin\Debug\netcoreapp1.1\PartiuJunto.Web.pdb
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\obj\Debug\netcoreapp1.1\PartiuJunto.Web.dll
+C:\src\GIT\rafaelvjb\Alura\AspNetCore\PartiuJunto\PartiuJunto.Web\obj\Debug\netcoreapp1.1\PartiuJunto.Web.pdb
